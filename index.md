@@ -6,5 +6,9 @@
 let HelloWorld = "console.log";
 ```
 #### How i do it
+- [x] Eat
+- [x] Sleep
+- [x] Learn
+- [ ] Rich
 ##### Wow
 ###### Finally
